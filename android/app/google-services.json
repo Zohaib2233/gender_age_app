@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "812918958520",
+    "project_id": "age-gender-1f2cc",
+    "storage_bucket": "age-gender-1f2cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812918958520:android:9c3ebda4ade6f3dfdd074d",
+        "android_client_info": {
+          "package_name": "com.example.gender_recongnition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812918958520-86t6a5f0em5dq5vr5qolluho75rmegr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_WEVzjses98-TyH1gfJzILe9NWuWM6RQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812918958520-86t6a5f0em5dq5vr5qolluho75rmegr4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812918958520:android:41914480f6727d71dd074d",
+        "android_client_info": {
+          "package_name": "com.zhtech.gender_age_detection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812918958520-86t6a5f0em5dq5vr5qolluho75rmegr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_WEVzjses98-TyH1gfJzILe9NWuWM6RQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812918958520-86t6a5f0em5dq5vr5qolluho75rmegr4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
